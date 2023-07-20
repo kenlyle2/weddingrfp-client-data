@@ -1,0 +1,8 @@
+beautifulsoup4==4.12.2
+Flask==2.3.2
+google_api_python_client==2.94.0
+mysql_connector_repackaged==0.3.1
+openai==0.27.8
+outscraper==3.0.3
+protobuf==4.23.4
+requests==2.28.1
